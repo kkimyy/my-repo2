@@ -1,4 +1,8 @@
 First line
 Second line
 Third line
+<<<<<<< HEAD
 @@ modify
+=======
+modify @@
+>>>>>>> 4b58949 (local_change)
